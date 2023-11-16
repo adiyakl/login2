@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952693216575",
+    "project_id": "alfa-c0758",
+    "storage_bucket": "alfa-c0758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952693216575:android:4f4d43657da5ca7c49ef8a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XLTEvJuPaYrH4pZUJURCdpF10-poiik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
